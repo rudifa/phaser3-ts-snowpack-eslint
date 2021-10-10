@@ -8,7 +8,7 @@ module.exports = {
         open: "none"
     },
     buildOptions: {
-        out: "_build"
+        //out: "_build"
     },
     optimize: {
         bundle: true,
